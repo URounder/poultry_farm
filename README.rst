@@ -37,7 +37,7 @@ poultry_farm
     Program for managing and tracking your poultry farm
 
 
-A longer description of your project goes here...
+Track feed amounts and meat production for various species of poultry. Meat birds and egg layers. I also plan to add pasture management tools.
 
 
 .. _pyscaffold-notes:
